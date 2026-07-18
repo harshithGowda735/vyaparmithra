@@ -1,0 +1,6 @@
+{
+  "name": "VyaparMitra AI",
+  "description": "An AI-powered Business Operating System for Indian MSMEs featuring financial health diagnosis, decision simulations, government scheme recommendations, secure document vaults, and growth roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

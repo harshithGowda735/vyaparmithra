@@ -1,0 +1,127 @@
+[
+  {
+    "scheme_name": "Pradhan Mantri MUDRA Yojana (PMMY)",
+    "eligibility": "Non-corporate, non-farm small/micro enterprises needing up to Rs. 10 Lakh.",
+    "benefits": "Collateral-free loans. Shishu (up to 50k), Kishore (50k-5L), Tarun (5L-10L)."
+  },
+  {
+    "scheme_name": "Credit Linked Capital Subsidy Scheme (CLCSS)",
+    "eligibility": "MSMEs looking to upgrade their machinery and technology.",
+    "benefits": "15% upfront capital subsidy for technology upgradation up to Rs. 1 crore."
+  },
+  {
+    "scheme_name": "Prime Minister's Employment Generation Programme (PMEGP)",
+    "eligibility": "Any individual above 18 years. For manufacturing projects >10 lakh, minimum 8th pass required.",
+    "benefits": "Margin money subsidy of up to 35% on projects costing up to Rs. 50 lakh (manufacturing) or Rs. 20 lakh (services)."
+  },
+  {
+    "scheme_name": "Credit Guarantee Trust for Micro and Small Enterprises (CGTMSE)",
+    "eligibility": "New and existing Micro and Small Enterprises.",
+    "benefits": "Collateral-free credit up to Rs. 500 lakh with guarantee cover up to 85%."
+  },
+  {
+    "scheme_name": "Stand-Up India Scheme",
+    "eligibility": "SC/ST and/or women entrepreneurs setting up a greenfield enterprise.",
+    "benefits": "Bank loans between Rs. 10 lakh and Rs. 1 crore for setting up new enterprises."
+  },
+  {
+    "scheme_name": "PM Vishwakarma Yojana",
+    "eligibility": "Traditional artisans and craftspeople involved in 18 specified trades.",
+    "benefits": "Skill training, toolkit incentive of Rs. 15,000, and collateral-free credit up to Rs. 3 lakh at 5% interest."
+  },
+  {
+    "scheme_name": "Udyam Registration Benefits",
+    "eligibility": "Any micro, small, or medium enterprise.",
+    "benefits": "Protection against delayed payments, collateral-free loans, barcode registration subsidy, and ISO certification reimbursement."
+  },
+  {
+    "scheme_name": "Zero Defect Zero Effect (ZED) Certification Scheme",
+    "eligibility": "All manufacturing MSMEs with Udyam Registration.",
+    "benefits": "Financial assistance on cost of certification (up to 80% subsidy for Micro enterprises), promoting sustainable practices."
+  },
+  {
+    "scheme_name": "ASPIRE (Scheme for Promotion of Innovation, Rural Industries and Entrepreneurship)",
+    "eligibility": "Any individual/entrepreneur aiming to set up rural and agriculture-based industries.",
+    "benefits": "Establishment of Livelihood Business Incubators (LBI) and Technology Business Incubators (TBI) with financial support."
+  },
+  {
+    "scheme_name": "SFURTI (Scheme of Fund for Regeneration of Traditional Industries)",
+    "eligibility": "Artisans, NGOs, institutions, and clusters involved in traditional industries (khadi, coir, village industries).",
+    "benefits": "Financial assistance up to Rs. 5 crore for setting up common facility centers, training, and capacity building."
+  },
+  {
+    "scheme_name": "Lean Manufacturing Competitiveness Scheme (LMCS)",
+    "eligibility": "All registered MSMEs, preferably forming a cluster of 4 to 10 units.",
+    "benefits": "Financial assistance of up to 90% of the cost for implementing lean manufacturing techniques through consultants."
+  },
+  {
+    "scheme_name": "MSME Samadhaan",
+    "eligibility": "Micro and small enterprises dealing with delayed payments from buyers.",
+    "benefits": "Online platform to file applications regarding delayed payments. Buyers are liable to pay compound interest at three times the bank rate."
+  },
+  {
+    "scheme_name": "National SC-ST Hub",
+    "eligibility": "SC/ST entrepreneurs holding MSME registration.",
+    "benefits": "Subsidies for participation in exhibitions, vendor development programs, and reimbursement for NSIC/registration fees."
+  },
+  {
+    "scheme_name": "Coir Vikas Yojana",
+    "eligibility": "Entrepreneurs, workers, and industries in the coir sector.",
+    "benefits": "Skill development, market promotion, and modernizing coir processing units with financial assistance."
+  },
+  {
+    "scheme_name": "Production Linked Incentive (PLI) Scheme for MSMEs",
+    "eligibility": "Manufacturing companies matching specific turnover and investment criteria in target sectors.",
+    "benefits": "Financial incentives based on incremental sales of products manufactured in India."
+  },
+  {
+    "scheme_name": "Startup India Seed Fund Scheme (SISFS)",
+    "eligibility": "Startups recognized by DPIIT, incorporated less than 2 years ago.",
+    "benefits": "Financial assistance up to Rs. 20 Lakhs for validation and Rs. 50 Lakhs for market entry/commercialization."
+  },
+  {
+    "scheme_name": "PM SVANidhi",
+    "eligibility": "Street vendors, hawkers, and small shopkeepers in urban/semi-urban areas.",
+    "benefits": "Working capital collateral-free loan up to Rs. 10,000, 20,000, and 50,000 in progressive tranches."
+  },
+  {
+    "scheme_name": "Design Clinic Scheme for MSMEs",
+    "eligibility": "All manufacturing MSMEs.",
+    "benefits": "Financial assistance up to Rs. 40 lakh for design projects and continuous design intervention."
+  },
+  {
+    "scheme_name": "National Small Industries Corporation (NSIC) Subsidy",
+    "eligibility": "Registered Micro and Small Enterprises.",
+    "benefits": "Assistance in raw material procurement, marketing support, and exemption from earnest money deposits."
+  },
+  {
+    "scheme_name": "TREAD (Trade Related Entrepreneurship Assistance and Development)",
+    "eligibility": "Women entrepreneurs primarily from poor backgrounds/NGOs.",
+    "benefits": "Government grant up to 30% of total project cost for capacity building and promoting entrepreneurship among women."
+  },
+  {
+    "scheme_name": "Mahila Coir Yojana",
+    "eligibility": "Women artisans involved in the coir industry.",
+    "benefits": "Provision of motorized ratts/equipment at 75% subsidy and monthly stipend during training."
+  },
+  {
+    "scheme_name": "Market Promotion and Development Scheme (MPDA)",
+    "eligibility": "Khadi institutions and cooperatives.",
+    "benefits": "20% financial assistance (MDA) on production of Khadi and polyvastra to boost sales and marketing."
+  },
+  {
+    "scheme_name": "Make in India Support",
+    "eligibility": "Entrepreneurs setting up manufacturing bases in India.",
+    "benefits": "Fast-tracked clearances, relaxed foreign direct investment (FDI) norms, and improved ease of doing business."
+  },
+  {
+    "scheme_name": "Incubation Scheme (Promoting Innovations)",
+    "eligibility": "MSMEs, students, and individual innovators.",
+    "benefits": "Grant of up to Rs. 15 lakh per idea for developing and nurturing new innovative business concepts."
+  },
+  {
+    "scheme_name": "Atmanirbhar Bharat Rojgar Yojana",
+    "eligibility": "Employers and new employees registered under EPFO.",
+    "benefits": "Government covers both employee (12%) and employer (12%) EPF contributions for two years to boost employment."
+  }
+]

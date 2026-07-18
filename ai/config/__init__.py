@@ -1,0 +1,1 @@
+"""VyaparMitra AI — config package."""

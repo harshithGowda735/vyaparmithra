@@ -1,0 +1,112 @@
+[
+  {
+    "name": "PM SVANidhi – Street Vendor Loan",
+    "sector": "retail",
+    "employees": 1,
+    "revenue_limits": 500000,
+    "eligibility": "Street vendors with vending certificate or letter of recommendation from ULB. Must be 18+ years old.",
+    "benefits": "Collateral-free working capital loan of ₹10,000 – ₹50,000 at subsidised interest rates. Digital transaction incentive of ₹1200/year.",
+    "documents": ["Aadhaar Card", "Vending Certificate / LoR", "Bank Account Details", "Passport Photo"],
+    "apply_url": "https://pmsvanidhi.mohua.gov.in/",
+    "loans": ["₹10,000 (Initial)", "₹20,000 (2nd Tranche)", "₹50,000 (3rd Tranche)"]
+  },
+  {
+    "name": "MUDRA Shishu Loan",
+    "sector": "all",
+    "employees": 10,
+    "revenue_limits": 1000000,
+    "eligibility": "Non-corporate, non-farm small/micro enterprises. New or existing business. Loan up to ₹50,000.",
+    "benefits": "Collateral-free loan up to ₹50,000 for starting or growing a micro enterprise. Low interest rates.",
+    "documents": ["Aadhaar Card", "PAN Card", "Business Plan / Proof", "Bank Statement (6 months)", "Passport Photo"],
+    "apply_url": "https://www.mudra.org.in/",
+    "loans": ["Shishu: up to ₹50,000"]
+  },
+  {
+    "name": "MUDRA Kishore Loan",
+    "sector": "all",
+    "employees": 50,
+    "revenue_limits": 5000000,
+    "eligibility": "Non-corporate, non-farm small/micro enterprises seeking loans between ₹50,001 and ₹5 lakh.",
+    "benefits": "Collateral-free loan between ₹50,001 and ₹5 lakh for business expansion or equipment purchase.",
+    "documents": ["Aadhaar Card", "PAN Card", "Business Registration", "Bank Statement (12 months)", "IT Returns"],
+    "apply_url": "https://www.mudra.org.in/",
+    "loans": ["Kishore: ₹50,001 – ₹5,00,000"]
+  },
+  {
+    "name": "MUDRA Tarun Loan",
+    "sector": "all",
+    "employees": 200,
+    "revenue_limits": 25000000,
+    "eligibility": "Established non-corporate small/medium enterprises seeking loans between ₹5 lakh and ₹10 lakh.",
+    "benefits": "Loan up to ₹10 lakh for business growth, working capital, and asset acquisition.",
+    "documents": ["Aadhaar Card", "PAN Card", "Business Registration Certificate", "Audited Balance Sheet", "IT Returns (2 years)", "Bank Statement (12 months)"],
+    "apply_url": "https://www.mudra.org.in/",
+    "loans": ["Tarun: ₹5,00,001 – ₹10,00,000"]
+  },
+  {
+    "name": "CGTMSE – Credit Guarantee for MSMEs",
+    "sector": "manufacturing",
+    "employees": 500,
+    "revenue_limits": 100000000,
+    "eligibility": "New and existing micro and small enterprises in manufacturing or services sector. Loan up to ₹2 crore.",
+    "benefits": "Credit guarantee coverage up to 85% of loan amount. No collateral or third-party guarantee required.",
+    "documents": ["MSME Registration (Udyam)", "PAN Card", "Bank Statement (2 years)", "Audited Financials", "Project Report"],
+    "apply_url": "https://www.cgtmse.in/",
+    "loans": ["Up to ₹2,00,00,000 (₹2 crore)"]
+  },
+  {
+    "name": "Stand-Up India Scheme",
+    "sector": "all",
+    "employees": 250,
+    "revenue_limits": 50000000,
+    "eligibility": "SC/ST and women entrepreneurs setting up a greenfield enterprise in manufacturing, services, or trading sector.",
+    "benefits": "Bank loans between ₹10 lakh and ₹1 crore for greenfield enterprises. Covers 75% of project cost.",
+    "documents": ["Aadhaar Card", "PAN Card", "Caste Certificate (SC/ST)", "Business Plan", "Bank Account Details", "Passport Photo"],
+    "apply_url": "https://www.standupmitra.in/",
+    "loans": ["₹10,00,000 – ₹1,00,00,000"]
+  },
+  {
+    "name": "PM Vishwakarma Scheme",
+    "sector": "handicrafts",
+    "employees": 1,
+    "revenue_limits": 1500000,
+    "eligibility": "Artisans and craftspeople in 18 traditional trades (e.g. blacksmith, carpenter, goldsmith, potter, weaver). Must work with hands and tools.",
+    "benefits": "Recognition via PM Vishwakarma certificate. Skill training with ₹500/day stipend. Collateral-free loan up to ₹3 lakh at 5% interest. Digital payments incentive.",
+    "documents": ["Aadhaar Card", "Ration Card / Family ID", "Bank Account", "Mobile linked to Aadhaar", "Trade / Craft Proof"],
+    "apply_url": "https://pmvishwakarma.gov.in/",
+    "loans": ["Tier 1: ₹1,00,000", "Tier 2: ₹2,00,000"]
+  },
+  {
+    "name": "PMEGP – Prime Minister's Employment Generation Programme",
+    "sector": "manufacturing",
+    "employees": 20,
+    "revenue_limits": 10000000,
+    "eligibility": "Any individual 18+ years. Must have passed VIII standard for projects above ₹10 lakh (manufacturing) or ₹5 lakh (services). No income ceiling.",
+    "benefits": "Subsidy of 15–35% of project cost (higher for rural/weaker sections). For manufacturing projects up to ₹50 lakh and service up to ₹20 lakh.",
+    "documents": ["Aadhaar Card", "PAN Card", "Educational Certificates", "Caste Certificate (if applicable)", "Project Report", "Passport Photo"],
+    "apply_url": "https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp",
+    "loans": ["Manufacturing: up to ₹50,00,000", "Services: up to ₹20,00,000"]
+  },
+  {
+    "name": "Udyam Registration (MSME)",
+    "sector": "all",
+    "employees": 250,
+    "revenue_limits": 500000000,
+    "eligibility": "Any business entity (sole proprietor, partnership, company) with investment up to ₹50 crore (manufacturing) or ₹10 crore (services).",
+    "benefits": "Free registration as MSME. Enables access to priority sector lending, government subsidies, delayed payment protections, and scheme eligibility.",
+    "documents": ["Aadhaar Card of owner", "PAN Card", "Business PAN (if company)", "Bank Account Details"],
+    "apply_url": "https://udyamregistration.gov.in/",
+    "loans": []
+  },
+  {
+    "name": "SIDBI MSME Loan in 59 Minutes",
+    "sector": "all",
+    "employees": 250,
+    "revenue_limits": 250000000,
+    "eligibility": "Existing MSMEs with valid Udyam registration, GST registration, and ITR filing. For in-principle loan approval within 59 minutes.",
+    "benefits": "In-principle loan approval within 59 minutes. Loans from ₹1 lakh to ₹5 crore at competitive rates.",
+    "documents": ["Udyam Certificate", "GST Returns (6 months)", "IT Returns (3 years)", "Bank Statement (6 months)", "KYC Documents"],
+    "apply_url": "https://www.psbloansin59minutes.com/",
+    "loans": ["₹1,00,000 – ₹5,00,00,000"]
+  }
+]

@@ -1,0 +1,40 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# VyaparMitra AI — requirements.txt
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Web framework
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+
+# Environment & config
+python-dotenv==1.0.1
+pydantic==2.9.2
+pydantic-settings==2.5.2
+
+# AI / ML
+torch==2.4.1
+transformers==4.45.2
+accelerate==0.34.2
+bitsandbytes==0.43.3
+sentence-transformers==3.1.1
+faiss-cpu==1.8.0
+
+# Voice / Speech-to-text
+openai-whisper==20240930    # OpenAI Whisper (CPU + GPU)
+ffmpeg-python==0.2.0        # Python bindings for ffmpeg (mp3/m4a decoding)
+python-multipart==0.0.12    # FastAPI multipart/form-data file uploads
+
+# Data
+numpy==2.1.2
+pandas==2.2.3
+
+# Logging
+loguru==0.7.2
+
+# Testing
+pytest==8.3.3
+pytest-asyncio==0.24.0
+httpx==0.27.2
+
+# Typing helpers
+typing-extensions==4.12.2
